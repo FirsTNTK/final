@@ -1,0 +1,4 @@
+[2023-09-15T16:52:08.079] [DEBUG] default - Create application server.
+[2023-09-15T16:52:08.081] [INFO] default - Install api route paths successfully.
+[2023-09-15T16:52:08.081] [INFO] default - Install upload route paths successfully.
+[2023-09-15T16:52:08.081] [INFO] default - Install Error handling successfully.
